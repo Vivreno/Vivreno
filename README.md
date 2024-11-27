@@ -3,7 +3,7 @@
 <td align="center">
 
 # 🙋🏻‍♂️ Hello, I'm Bahij
-Currently, I am a student at KKwantlen Polytechnic University.
+Currently, I am a student at Kwantlen Polytechnic University.
 
 I’m aspiring to work in the fields of:
 Information Technology, Cyber Security, Artificial Intelligence
