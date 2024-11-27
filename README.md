@@ -6,9 +6,7 @@
 Currently, I am a student at KKwantlen Polytechnic University.
 
 I’m aspiring to work in the fields of:
-- Information Technology
-- Cyber Security
-- Artificial Intelligence
+Information Technology, Cyber Security, Artificial Intelligence
 
 Outside of coding, I enjoy playing video games, sports, and outdoors!
 
