@@ -11,7 +11,7 @@ Information Technology, Cyber Security, Artificial Intelligence
 Outside of coding, I enjoy playing FPS video games, sports, and doing outdoor activities like hiking!
 
 # 💻 Tech Stack:
-**⚠️ Will be demonstrated on [my portfolio](vivreno.com).**
+**⚠️ Will be demonstrated on [my portfolio](https://vivreno.com).**
 
 </td>
 </tr>
