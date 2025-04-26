@@ -12,6 +12,7 @@ Outside of coding, I enjoy playing FPS video games, sports, and doing outdoor ac
 
 # 💻 Tech Stack:
 **⚠️ A full functioning <a href="https://vivreno.com" target="_blank">portfolio</a> will be available by April 3rd.**
+<i> I lied. Or not really. See, I made a portfolio for my web class, but didn't like it for my own. Eerm. Now you gotta wait... a really really long time.<i>
 
 </td>
 </tr>
